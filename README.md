@@ -111,4 +111,5 @@ For further inquiries or support, please contact:
 
 - **Your Name** – veriartnear@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/VeriArtNEAR/)
-<!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
+  <!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
+  aaa
