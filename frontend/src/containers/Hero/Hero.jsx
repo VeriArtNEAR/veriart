@@ -9,7 +9,7 @@ function Hero() {
     <>
       <div className="hero">
         <NavBar />
-        {/* <h1 className="underline text-black font-bold">Hero</h1> */}
+        <h1 className="underline text-black font-bold">Hero</h1>
       </div>
     </>
   );
