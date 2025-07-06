@@ -34,6 +34,7 @@ const Homepage = () => {
             <a href="/#features">Features</a>
             {/* <a href="#">Gallery</a> */}
             <Link to={"/about"}>About</Link>
+            <Link to={"/register"}>Register Artwork</Link>
           </div>
           <div className="nav-actions">
             <button className="btn btn-outline">Login</button>
